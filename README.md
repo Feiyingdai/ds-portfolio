@@ -83,6 +83,31 @@ This project combines Natural Language Processing (NLP), Social Network Analysis
   - Leverage Community Detection for Personalization
 
 ---
+### 🧩 [*A/B Testing for Player Engagement in Cookie Cats**](https://github.com/Feiyingdai/ab-testing-game-design)
+This project aims to find out whether moving the first progression gate from level 30 to level 40 enhance player engagement during the first week after installation using a/b testing
+
+#### 🎯 Objectives
+
+- **Quantify behavioral differences** between two player groups:  
+- **Measure short-term and long-term engagement** using both numerical and proportion metrics:
+- **Assess statistical significance and robustness** of the observed differences via:
+   - Classical hypothesis testing (Z-test, Mann–Whitney U)
+   - Bootstrapping (500 iterations) to estimate empirical confidence intervals
+- **Draw actionable insights** to guide future gate-placement and monetization strategies.
+  
+#### 💼 Business Applications:
+
+This A/B test demonstrates how **data-driven experimentation** can directly inform **game design and monetization decisions** in the mobile gaming industry.
+
+- **Player Experience Optimization**
+  - Identified that **introducing the first gate earlier (Level 30)** increases both **7-day retention** and **deep engagement** (more players reach ≥30 rounds).
+  - Suggests that moderate early friction helps maintain **player motivation and progression pacing**.
+
+- **Monetization Strategy**
+  - Early gates serve as **behavioral checkpoints** that can enhance in-app purchase (IAP) opportunities and return sessions.
+  - Delaying gates (Level 40) lowers retention before monetization triggers appear — potentially reducing revenue conversion.
+
+---
 
 ### 🌱 Currently Learning
 
