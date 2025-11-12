@@ -83,7 +83,7 @@ This project combines Natural Language Processing (NLP), Social Network Analysis
   - Leverage Community Detection for Personalization
 
 ---
-### 🧩 [*A/B Testing for Player Engagement in Cookie Cats**](https://github.com/Feiyingdai/ab-testing-game-design)
+### 🧩 [*A/B Testing for Player Engagement in Cookie Cats**](https://github.com/Feiyingdai/ds-portfolio/tree/main/ab-testing-game-design)
 This project aims to find out whether moving the first progression gate from level 30 to level 40 enhance player engagement during the first week after installation using a/b testing
 
 #### 🎯 Objectives
