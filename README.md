@@ -109,7 +109,13 @@ This A/B test demonstrates how **data-driven experimentation** can directly info
   - Delaying gates (Level 40) lowers retention before monetization triggers appear — potentially reducing revenue conversion.
 
 ---
+### 🧩 [**OMS Data Platform**](https://github.com/Feiyingdai/oms-data-platform)
+An End-to-End Modern Data Stack Project using Snowflake & dbt Core.
 
+#### 🎯 Objectives
+This repository hosts the complete data engineering lifecycle for SleekMart's Order Management System (OMS). It demonstrates a full **ELT (Extract, Load, Transform) pipeline** that processes raw transactional data into a clean, analytical-ready **Star Schema** and **One-Big-Table (OBT)** for Business Intelligence consumption.
+
+---
 ### 🌱 Currently Learning
 
 - 🔄 Distributed data processing with **PySpark & AWS**
