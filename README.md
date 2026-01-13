@@ -39,7 +39,8 @@
 |----------------------------------------------------------|-------------------------------------------------------|
 | Car Insurance Claim Prediction with XGBoost              | Borderline Smote, Feature Engineering, XGBoost for Classification                |
 | Yelp Datasets: Using Sentiment & Social Networks Analysis| Geospatial Mapping, NLP(NLTK, AFINN, VADER, Word Cloud),Social Networks Analysis |  
-| A/B Testing for Player Engagement in Cookie Cats         | Hypothesis Test, Bootstrapping                                                   |        
+| A/B Testing for Player Engagement in Cookie Cats         | Hypothesis Test, Bootstrapping                                                   |
+| OMS Data Platform                                        | dbt modeling, Snowflakes                                                         | 
 
 ### 🚗 [**Car Insurance Claim Prediction with XGBoost @ EchoPlus AI**](https://github.com/Feiyingdai/Car-Insurance-Claim-Prediction)
 
